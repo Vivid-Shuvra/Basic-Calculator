@@ -13,11 +13,12 @@ When we enter the application, we get to see
 - a dropdown list having the operators
 - a submit button
 - a heading paragraph and a text area showing the response 
-- bootstrap used in the frontend and php used in the server side
-- xampp used for connecting localhost and the backend server
+
+=> bootstrap used in the frontend and php used in the server side
+=> xampp used for connecting localhost and the backend server
 
 # Steps:
-- Firstly, Apache needs to be run on the Xampp controm panel
+- Firstly, Apache needs to be run on the Xampp control panel
 - After connecting the localhost, user have to make entry the operands with an associated operation
 - Finally, the result will be shown in a text area
 
