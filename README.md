@@ -15,6 +15,7 @@ When we enter the application, we get to see
 - a heading paragraph and a text area showing the response 
 
 => bootstrap used in the frontend and php used in the server side
+
 => xampp used for connecting localhost and the backend server
 
 # Steps:
